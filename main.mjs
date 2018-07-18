@@ -1,0 +1,1 @@
+document.body.textContent = this === undefined ? 'strict' : 'sloppy';
